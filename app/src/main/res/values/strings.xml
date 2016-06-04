@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Universal Chat Box</string>
+    <string name="EnterName">Enter Chat Name:</string>
+    <string name="okay">Done</string>
+    <string name="noUsernameEntered">No Username Entered, Please Enter one</string>
+    <string name="send">Send</string>
+    <string name="action_settings">Settings</string>
+</resources>
